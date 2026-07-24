@@ -1,16 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2D1B69,50:6D28D9,100:A855F7&height=220&section=header&text=Labdhi%20Jain&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Machine%20Learning%20Engineer%20|%20Deep%20Learning%20Researcher%20|%20AI%20Enthusiast&descAlignY=75"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2D1B69,50:0d0766,100:A855F7&height=220&section=header&text=Labdhi%20Jain&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20|%20Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=75"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=16\&duration=2500\&pause=800\&color=A855F7\&center=true\&vCenter=true\&width=950\&lines=Final-Year+Computer+Science+Student+at+VIT-AP;Building+Explainable+AI+for+Real-World+Problems;98.03%25+Accuracy+in+Brain+Tumor+Detection;Research+Paper+Submitted+to+Scientific+Reports;Smart+India+Hackathon+Finalist;Always+Curious.+Always+Learning.)](https://github.com/labdhi-jain)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=16\&duration=2500\&pause=800\&color=1c1585\&center=true\&vCenter=true\&width=950\&lines=Final-Year+Computer+Software+Engineering+at+VIT-AP;Building+Explainable+Softwares+with+AI+for+Real-World+Problems;Research+Paper+Submitted+to+Preprint;Always+Curious.+Always+Learning.)](https://github.com/labdhi-jain)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=labdhi-jain\&label=Profile%20Views\&color=8B5CF6\&style=for-the-badge)
+<br/>
+
+ <a href="https://www.linkedin.com/in/labdhi-jain-1860802b7/"><alt text="Labdhi's LinkedIn"/><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=fff"/></a>
+  <a href="mailto:jainlabdhi1405@gmail.com"><alt text="Labdhi's Email id"/><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)"/></a>
+  <a href="https://www.instagram.com/labdhi_j_a_i_n/"><alt text="Labdhi's Instagram"/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+![Profile Views](https://komarev.com/ghpvc/?username=labdhi-jain\&label=Profile%20Views\&color=0d0766\&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/labdhi-jain?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/labdhi-jain?style=for-the-badge)
 
+
 </div>
+
+
 
 ---
 
@@ -34,133 +42,65 @@ Status      → Open to Research, Internship, SDE, & AI Engineer Roles 🟢
 ```
 
 ---
+## 🏆 Achievements & Certifications
 
-## 🏆 Achievements
-
-* 🥈 Smart India Hackathon Finalist (1st Runner-Up)
-* 🏅 Google Cloud Sprint Hackathon – Top 10
-* 🥈 Vikas Summit Ideathon – 1st Runner-Up
-* 📄 Research Paper submitted to **Scientific Reports (March 2026)**
-* ☁️ Oracle Cloud Infrastructure Generative AI Professional
-* ☁️ AWS Academy Graduate – Cloud Architecting
-* 🔐 IBM Cyber Security Certified
-
----
-
-## 🔬 Featured Projects
-
-### 🧠 Brain Tumor Detection — MRI Classification with Explainable AI
-
-> Fine-tuned EfficientNet-B3 for MRI tumor classification.
-
-* Achieved **98.03% Test Accuracy**
-* Obtained **0.9994 AUC**
-* Integrated **Grad-CAM++** for explainability
-* Zero false positives across 305 test images
-
-**Tech Stack:** `PyTorch` `EfficientNet-B3` `Grad-CAM++` `Deep Learning`
+* 🚀 **Google Cloud Gen AI Exchange Hackathon** | Developed "Generative AI for Youth Mental Wellness" using the Google Cloud Ecosystem
+* ⚡ **Idea Forge & HackVerse Competitions** | Lead Architect for a Hyper-Local Energy Trading App & SepSense (Smart Medical Diagnostic Bandage)
+* ☁️ **Oracle Cloud Certified** | Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+* 🌐 **Hedera Certified** | Developer Associate (HCDA) & Foundation (HCF) – The Hashgraph Association
+* 🎓 **Google Cloud Certified Badges** | Generative AI, Gemini Multimodality, Multimodal RAG, & Prompt Design in Vertex AI
+* 👑 **Founder & Secretary General** | Civitas Model UN (also served as President of the MUN Club)
+* 🛠️ **Lead Architect & Competitor** | Engineered a hyper-local energy trading app & SepSense (smart medical diagnostic bandage) at Idea Forge & HackVerse
+* ⚡ **Technical Lead** | WiOS Club (Women in Open Source)
+* 📄 **Research Author** | Submitted "A Proposed Framework for Domain-Specific Vocabulary Learning Systems"
+* ☁️ **Cloud & Web3 Certified** | Oracle Cloud AI Foundations, Hedera Developer Associate (HCDA), & Google Cloud GenAI Badges
 
 ---
 
-### 🏙️ JanVaani 2.0
-
-> Civic Issue Reporting & Resolution Platform
-
-* Developed React.js frontend and Node.js backend.
-* Built geotagged reporting and complaint tracking.
-* Implemented RBAC, geospatial clustering, and analytics.
-* Designed a scalable deployment-ready architecture.
-
-**Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB`
-
----
-
-### 👁️ TraceID
-
-> Frame-wise CCTV Monitoring for Missing Individuals
-
-* Achieved **94% facial recognition accuracy**
-* Automated frame filtering and video summarization
-* Reduced manual search efforts by **70%**
-
-**Tech Stack:** `Python` `OpenCV` `Computer Vision`
-
----
-
-## 📄 Research
-
-### Modeling the Emotional Arcs of Shakespearean Characters Using Transformer-Based Architectures
-
-* Submitted to **Scientific Reports** (March 2026)
-* Explores emotion and sentiment analysis using transformer models.
-* Studies character evolution and emotional trajectories in Shakespearean literature.
-
-> `NLP` · `Transformers` · `Sentiment Analysis` · `Research`
-
----
 
 ## 💻 Technical Skills
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,mysql"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,html,css,postgres" alt="Languages" />
 </p>
 
-### Frameworks & Tools
+### Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,docker,kubernetes,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,nodejs,express,vite,opencv" alt="Frameworks & Libraries" />
 </p>
 
-### Areas of Interest
+### Databases, Cloud & DevOps
 
-* Machine Learning
-* Deep Learning
-* Explainable AI (XAI)
-* Computer Vision
-* Natural Language Processing
-* Cloud Computing
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,firebase,gcp,vercel,git,github" alt="Databases, Cloud & DevOps" />
+</p>
+
+
+## Areas of Interest
+
+* 🧠 **Generative AI & LLM Pipelines** (RAG Architectures, Multimodal Systems, Prompt Engineering)
+* 👁️ **Computer Vision & Facial Analytics** (OpenCV, Real-Time Emotion Detection, DeepFace)
+* ⚡ **Full-Stack Web Systems** (Next.js Edge Architecture, Real-Time APIs, Serverless Workflows)
+* 🎙️ **Multimodal & Voice AI** (Real-Time Audio Processing, Sentiment Analysis, Natural Language Processing)
+* ☁️ **Cloud Architecture & Web3** (Google Cloud Ecosystem, Oracle Cloud Infrastructure, Hedera Hashgraph)
 
 ---
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=labdhi-jain&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=labdhi-jain&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labdhi-jain&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 ---
 
-## 📚 Certifications
-
-| Certification                         | Organization |
-| ------------------------------------- | ------------ |
-| OCI Generative AI Professional (2025) | Oracle       |
-| AWS Cloud Architecting                | AWS Academy  |
-| IBM Cyber Security                    | IBM          |
-| Crash Course on Python                | Google       |
-
----
-
-## 🌱 Currently Exploring
-
-* Large Language Models (LLMs)
-* Explainable AI (XAI)
-* Agentic AI Systems
-* Medical AI Applications
-* Research in Deep Learning
-* Cloud-Native ML Deployments
-
----
 
 ## 📊 Contribution Graph
 
@@ -168,13 +108,6 @@ Status      → Open to Research, Internship, SDE, & AI Engineer Roles 🟢
 
 ---
 
-## 🤝 Connect With Me
-
-* 📧 Email: [jainlabdhi1405@gmail.com](mailto:jainlabdhi1405@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/labdhi-jain
-* 💻 GitHub: https://github.com/labdhi-jain
-
----
 
 <div align="center">
 
@@ -186,4 +119,4 @@ Status      → Open to Research, Internship, SDE, & AI Engineer Roles 🟢
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:6D28D9,100:2D1B69&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:0d0766,100:2D1B69&height=120&section=footer"/>
