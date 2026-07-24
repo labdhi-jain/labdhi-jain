@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2D1B69,50:6D28D9,100:A855F7&height=220&section=header&text=Nishtha%20Soni&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Machine%20Learning%20Engineer%20|%20Deep%20Learning%20Researcher%20|%20AI%20Enthusiast&descAlignY=75"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2D1B69,50:6D28D9,100:A855F7&height=220&section=header&text=Labdhi%20Jain&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Machine%20Learning%20Engineer%20|%20Deep%20Learning%20Researcher%20|%20AI%20Enthusiast&descAlignY=75"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=16\&duration=2500\&pause=800\&color=A855F7\&center=true\&vCenter=true\&width=950\&lines=Final-Year+Computer+Science+Student+at+VIT-AP;Building+Explainable+AI+for+Real-World+Problems;98.03%25+Accuracy+in+Brain+Tumor+Detection;Research+Paper+Submitted+to+Scientific+Reports;Smart+India+Hackathon+Finalist;Always+Curious.+Always+Learning.)](https://github.com/labdhi-jain)
 
